@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@google/genai": "^2.7.0",
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "axios": "^1.16.1",
+    "cheerio": "^1.2.0",
+    "libphonenumber-js": "^1.13.6",
+    "node-fetch": "^2.7.0",
+    "openai": "^6.42.0"
+  }
+}

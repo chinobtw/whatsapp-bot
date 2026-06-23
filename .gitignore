@@ -1,0 +1,68 @@
+# Sistema / Termux
+.bash_history
+.cache/
+.config/
+.gitconfig
+.local/
+.npm/
+.pm2/
+.python_history
+.ssh/
+.termux/
+AppData/
+storage/
+.bashrc
+.opus
+hola.js
+hola.py
+GhostTR.py
+IAs.py
+"✐"
+
+# Historiales y configs sensibles
+.claude_history.json
+.gemma_history.json
+.grok_history.json
+ia_history.json
+config.js
+cookies.txt
+cookies_p.txt
+*.session
+
+# Backups y basura
+backup_bot.zip
+backup_bot/
+bot.js.bak
+bot.js.save
+bot_backup.js
+bbot.js
+bot_modules.zip
+whatsapp-bot/
+
+# Descargas y temporales
+downloads/
+temp_*.mp3
+temp_*.webm
+*.mp3
+*.webm
+
+# Datos de runtime (se regeneran solos)
+*.json
+!package.json
+
+# Node
+node_modules/
+
+# Otros proyectos sueltos que no son del bot
+llama.cpp/
+gallery-dl/
+GhostTrack/
+regalo/
+*.html
+number*.py
+Gemma.py
+ghost.py
+ai.py
+aic.py
+aig.py
+ail.py
